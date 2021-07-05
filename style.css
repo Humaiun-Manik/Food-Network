@@ -96,5 +96,17 @@ p{
 }
 .social-media h4{
     padding-left: 78px;
-
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+footer h1{
+    color: darkslategrey;
+    padding-top: 20px;
+}
+footer p{
+    color: #ceccccd9;
+    text-align: center;
+    padding-bottom: 50px;
 }
