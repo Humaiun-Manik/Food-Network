@@ -30,11 +30,16 @@ p{
 }
 .button{
     text-decoration: none;
-    background-image: linear-gradient(#A5D4EE, #0387F6);
+    background-image: linear-gradient(#A5D46B, #0387F4);
     margin-left: 200px;
     padding: 15px 35px;
     color: white;
     border-radius: 30px;
     font-weight: bold;
     font-size: 20px;
+}
+.backg-frame{
+    background-image: url(images/Frame\ 57.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
