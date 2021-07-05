@@ -43,3 +43,36 @@ p{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.food-items h1{
+    text-align: center;
+}
+.food-items p{
+    text-align: center;
+    padding: 0px 300px;
+}
+.recipes{
+    display: flex;
+    margin: 0px 100px;
+}
+.food-info{
+    width: 30%;
+    margin-bottom: 100px;
+    padding: 15px;
+    box-shadow: 0px 5px 35px 5px #c5c49f;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.food-pic{
+    width: 100%;
+}
+.food-pic img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.food-details p{
+    margin-bottom: 20px;
+    padding: 0px;
+    text-align: justify;
+    font-size: 15px;
+}
